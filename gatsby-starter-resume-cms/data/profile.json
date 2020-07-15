@@ -1,0 +1,240 @@
+{
+  "contact": {
+    "phone": "+91 7538899838",
+    "email": "aditya.kumawat63@gmail.com",
+    "website": "coming soon",
+    "location": "Vishakapatnam, India"
+  },
+  "skills": [
+    {
+      "title": "General",
+      "type": "percent",
+      "subskills": [
+        {
+          "name": "Project Management",
+          "percent": 92
+        },
+        {
+          "name": "Backend Development NODE/Express",
+          "percent": 80
+        },
+        {
+          "name": "Data Science",
+          "percent": 65
+        },
+        {
+          "name": "UX",
+          "percent": 70
+        },
+        {
+          "name": "UI",
+          "percent": 75
+        },
+        {
+          "name": "Frontend Development",
+          "percent": 90
+        },
+        {
+          "name": "Convincing Skills",
+          "percent": 75
+        },
+        {
+          "name": "Data Visualization",
+          "percent": 65
+        },
+        {
+          "name": "Problem Solving",
+          "percent": 85
+        },
+        {
+          "name": "Team Work",
+          "percent": 100
+        }
+      ]
+    },
+    {
+      "title": "Languages",
+      "type": "percent",
+      "subskills": [
+        {
+          "name": "Javascript",
+          "percent": 90
+        },
+        {
+          "name": "HTML5",
+          "percent": 100
+        },
+        {
+          "name": "Python",
+          "percent": 75
+        },
+        {
+          "name": "CSS3",
+          "percent": 90
+        },
+        {
+          "name": "C",
+          "percent": 75
+        },
+        {
+          "name": "C++",
+          "percent": 75
+        }
+      ]
+    },
+    {
+      "title": "Frameworks",
+      "type": "tag",
+      "subskills": [
+        {
+          "name": "React"
+        },
+        {
+          "name": "React Native"
+        },
+        {
+          "name": "Node"
+        },
+        {
+          "name": "Express"
+        },
+        {
+          "name": "Particle"
+        },
+        {
+          "name": "Gatsby"
+        },
+        {
+          "name": "Bootstrap4"
+        }
+      ]
+    },
+    {
+      "title": "Software",
+      "type": "tag",
+      "subskills": [
+        {
+          "name": "VS Code"
+        },
+        {
+          "name": "Unity"
+        },
+        {
+          "name": "Android Studio"
+        }
+      ]
+    },
+    {
+      "title": "Databases",
+      "type": "tag",
+      "subskills": [
+        {
+          "name": "Postgresql"
+        },
+        {
+          "name": "Mongodb"
+        },
+        {
+          "name": "Firebase"
+        },
+        {
+          "name": "MySQL"
+        }
+      ]
+    }
+  ],
+  "summary": "Highly focused technologist with a multidisciplinary skill set honed over 10+ years in the IT industry. I strive to build great products and can take an initial idea, tackle it from multiple angles and take it from something great to something incredible. With 10+ years of experience in various industries, I help tech startups from idea phase to high volumes. I design and build scalable solutions, implement internal processes that fit your organization, build teams that produce results.",
+  "education": [
+    {
+      "institution": "SRM University, Chennai",
+      "degree": "Computer Science Engineering",
+      "start": "2016",
+      "end": "2020"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Cognizant",
+      "company": "INTERN",
+      "description": "I was trained on MERN stack extensively, In the end we were given an assignment to create a full stack application from scratch",
+      "start": "02/2020",
+      "end": "06/2020"
+    },
+    {
+      "role": "Awign",
+      "company": "Campus Ambassador",
+      "description": "Introducing candidates to the platform and persuading them to use the system.",
+      "start": "05/2018",
+      "end": "06/2019"
+    },
+    {
+      "role": "Wolkem India Limited",
+      "company": "Intern",
+      "description": "Part of the team responsible to analyse and help digitize large scale industrial data",
+      "start": "04/2018",
+      "end": "11/2018"
+    }
+  ],
+  "social": [
+    {
+      "service": "linkedin",
+      "url": "https://www.linkedin.com/in/aditya-kumawat"
+    },
+    {
+      "service": "twitter",
+      "url": "https://twitter.com/barancezayirli"
+    },
+    {
+      "service": "github",
+      "url": "https://github.com/AdityaKumawat97"
+    },
+    {
+      "service": "facebook",
+      "url": "https://www.facebook.com/aditya.kumawat.127/"
+    },
+    {
+      "service": "instagram",
+      "url": "https://www.instagram.com/adithinksinstaisshit/"
+    }
+  ],
+  "role": "Computer Science Engineer",
+  "projects": [
+    {
+      "name": "E-Commerce Application",
+      "company": "Open source/WORK IN PROGRESS",
+      "description": "This application uses various technologies like React,css for the UI, Firebase for authentication, Firestore which acts as the database, Stripe API will also be used to simulate dummy payment transactions, its a full stack project based on MERN Stack!",
+      "link": "https://github.com/AdityaKumawat97/react-e-commerce-website"
+    },
+    {
+      "name": "BUS Reservation Application",
+      "company": "Open source",
+      "description": "A Full stack Bus ticket booking application made using MERN Stack (MongoDB, Express js, React js, Node js), Token-based authentication implemented using Passport JS.",
+      "link": "https://github.com/AdityaKumawat97/MERN-BUS-APP"
+    },
+    {
+      "name": "Weather Application",
+      "company": "Open source",
+      "description": "A simple React JS based application, that displays the current weather based on the entered geolocation data.",
+      "link": "https://github.com/AdityaKumawat97/weather-App"
+    },
+    {
+      "name": "COVID Tracker",
+      "company": "Open source",
+      "description": "A simple application which showcases data related to COVID-19 in Cards (material UI), also has a line graph for the global data and bar charts for individual countries made using react-graph2, I have used axios to make API calls.",
+      "link": "https://frosty-torvalds-c16af4.netlify.app/"
+    },
+    {
+      "name": "TinDog",
+      "company": "Open source",
+      "description": "This website was given as a challenge in 2020 web development bootcamp - Udemy, this is a completely responsive website designed using HTML5, CSS3 and Bootstrap4",
+      "link": "https://adityakumawat97.github.io/TinDog/"
+    },
+    {
+      "name": "Geo Mapping of Data",
+      "company": "Open source",
+      "description": "This project demonstrates the data visualization skills learned by completing Data Visualization Course by IBM on Coursera. We were required to generate two visualization plots. The first one will be a plot to summarize the results of a survey that was conducted to gauge an audience interest in different data science topics. The second plot is a Choropleth map of the crime crate in San Francisco.",
+      "link": "https://github.com/AdityaKumawat97/Geo-Mapping-of-Data"
+    }
+  ],
+  "fullname": "Aditya Kumawat"
+}
