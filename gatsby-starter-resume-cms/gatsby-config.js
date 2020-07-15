@@ -6,8 +6,8 @@
 
 module.exports = {
   siteMetadata: {
-    title: `Baran Cezayirli | Technologist`,
-    author: `Baran Cezayirli`,
+    title: `Aditya Kumawat | Developer`,
+    author: `Aditya Kumawat`,
     description: `With 10+ years of experience in various industries, I help tech
               startups from idea phase to high volumes. I design and build
               scalable solutions, implement internal processes that fit your
@@ -21,7 +21,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Baran Cezayirli | Technologist`,
+        name: `Aditya Kumawat | Developer`,
         short_name: `CV`,
         start_url: `/`,
         background_color: `#f7f0eb`,
