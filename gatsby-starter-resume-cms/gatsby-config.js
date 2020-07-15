@@ -12,7 +12,7 @@ module.exports = {
               startups from idea phase to high volumes. I design and build
               scalable solutions, implement internal processes that fit your
               organization, build teams that produce results.`,
-    siteUrl: `https://barancezayirli.com/`,
+    siteUrl: `#`,
     social: {
       twitter: `barancezayirli`,
     },
