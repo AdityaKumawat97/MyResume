@@ -1,12 +1,13 @@
 import React from 'react';
+import './progress.component.css'
 
 const Progress = ({ percent, name }) => (
   <div className="shadow w-full bg-neutral-200 rounded overflow-hidden mb-2">
     <div
-      className="bg-primary-500 text-sm py-1 text-white font-light"
+      className="hvr bg-primary-500 text-sm py-1 text-white font-light"
       style={{ width: `${percent}%` }}
     >
-      <span className="pl-2">{name}</span>
+      <span className="pl-2">{name}</span> <span className="prog">{percent}%</span>
     </div>
   </div>
 );

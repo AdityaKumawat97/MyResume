@@ -15,7 +15,7 @@
           "percent": 92
         },
         {
-          "name": "Backend Development NODE/Express",
+          "name": "Backend Development",
           "percent": 80
         },
         {
@@ -143,13 +143,25 @@
       ]
     }
   ],
-  "summary": "Highly focused technologist with a multidisciplinary skill set honed over 10+ years in the IT industry. I strive to build great products and can take an initial idea, tackle it from multiple angles and take it from something great to something incredible. With 10+ years of experience in various industries, I help tech startups from idea phase to high volumes. I design and build scalable solutions, implement internal processes that fit your organization, build teams that produce results.",
+  "summary": "I’m a Computer Engineering graduate and Web Development aficionado. I have significant experience in full stack development particularly using the MERN stack. I have worked with a wide variety of technologies and I don't turn away from learning anything new. As an intern in Cognizant I learnt all the ins and outs of working in an IT company and am comfortable with working under a fast paced, pressure filled environment, I am currently working on learning Angular and UI/UX design using Adobe XD",
   "education": [
     {
       "institution": "SRM University, Chennai",
       "degree": "Computer Science Engineering",
       "start": "2016",
       "end": "2020"
+    },
+    {
+      "institution": "BSN Academy",
+      "degree": "AISCC",
+      "start": "2014",
+      "end": "2015"
+    },
+    {
+      "institution": "Geethaanjali All India Sr. Sec. School",
+      "degree": "SSC",
+      "start": "2013",
+      "end": "2014"
     }
   ],
   "experience": [
@@ -172,7 +184,7 @@
       "company": "Intern",
       "description": "Part of the team responsible to analyse and help digitize large scale industrial data",
       "start": "04/2018",
-      "end": "11/2018"
+      "end": "04/2018"
     }
   ],
   "social": [

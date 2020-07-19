@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+
+.prog {
+    display: none;
+    margin-left: 2rem;
+}
+.hvr{
+    cursor: pointer;
+}
+
+.hvr:hover .prog {
+    display: inline-block;
+}
