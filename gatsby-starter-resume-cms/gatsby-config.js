@@ -14,7 +14,7 @@ module.exports = {
               organization, build teams that produce results.`,
     siteUrl: `https://barancezayirli.com/`,
     social: {
-      twitter: `barancezayirli`,
+      twitter: ``,
     },
   },
   plugins: [
