@@ -143,6 +143,13 @@
   ],
   "experience": [
     {
+      "role": "React JS Developer",
+      "company": "Cognizant",
+      "description": "Working with React JS to develop reusable components, integrated with various plugins. Using Redux with Thunks & saga to manage state. Responsible for creating a new Admin panel and E- commerce website",
+      "start": "02/2020",
+      "end": "Till Date"
+    },
+    {
       "role": "Cognizant",
       "company": "INTERN",
       "description": "I was trained on MERN stack extensively, In the end we were given an assignment to create a full stack application from scratch",
